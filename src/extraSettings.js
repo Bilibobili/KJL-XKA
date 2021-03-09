@@ -40,3 +40,4 @@ let selectModal = false;
 let reverseLevelUp = false;
 
 document.getElementsByTagName("title")[0].innerText = '合成边伯贤'
+document.getElementsByTagName("title")[0].innerText = '合成边伯贤'
