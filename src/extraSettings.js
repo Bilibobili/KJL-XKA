@@ -41,3 +41,7 @@ let reverseLevelUp = false;
 
 document.getElementsByTagName("title")[0].innerText = '合成边伯贤'
 document.getElementsByTagName("title")[0].innerText = '合成边伯贤'
+document.getElementsByTagName("title")[0].innerText = '虽然非常吃醋呜呜呜但是还是要做'
+document.getElementsByTagName("title")[0].innerText = '总之就是非常吃醋 呜呜呜但是还是要做'
+document.getElementsByTagName("title")[0].innerText = '虽然非常吃醋呜呜呜但是还是要做'
+document.getElementsByTagName("title")[0].innerText = '虽然非常吃醋呜呜呜但是还是要做'
